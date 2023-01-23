@@ -1,3 +1,27 @@
- 👋 Hi, I’m @iCloudZA
+<h3>Hi there 👋 <img src="https://visitor-badge.glitch.me/badge?page_id=icloudza" align="right"/> </h3>
 
-![image](https://camo.githubusercontent.com/4940a83d946d647ddc340796acc8412d1ef336455be81ef8d7d3dc4b277f1e06/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4e69616e42726f6b656e2f4e69616e42726f6b656e2f5772697465436f6465732e676966)
+## CloudZA
+<p>
+<img title="Steven CloudZA's GitHub Stats"  align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=icloudza&hide=issues&show_icons=true&hide_border=true" alt="Steven Qiang's GitHub Stats" width="450"/>
+<img title="Steven Qiang's Top Langs"  align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=icloudza&layout=compact&hide=html&hide_border=true" alt="Steven Qiang's Top Langs"/>
+</p>
+
+## Things I code with
+
+<p>
+<img alt="vue" src="https://img.shields.io/badge/-Vuejs-13aa52?style=flat-square&logo=vue&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="jquery" src="https://img.shields.io/badge/-JqueryJs-13aa52?style=flat-square&logo=jquery&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=PHP&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+
+## Contact ME
+
+<p>
+<a href="http://wpa.qq.com/msgrd?v=3&uin=2922619863&site=qq&menu=yes"><img src="https://img.shields.io/badge/TENCENTQQ-D52C36?style=for-the-badge&logo=Tencent%20QQ&logoColor=#EB1923" /></a>
+ <a href="mailto:2922619853@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
